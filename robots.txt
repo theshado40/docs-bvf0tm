@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-s6qn53.laudosaude.com.br/sitemap.xml
